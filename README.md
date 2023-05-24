@@ -2,7 +2,7 @@
 
 # 📚 오도독 (오늘도 독서모임)
 
-![image-4.png](./image-4.png)
+![image-4.png](./image/image-4.png)
 
 <br />
 
@@ -59,7 +59,7 @@ Big Data
 
 
 ## 💻 아키텍처
-![image-5.png](./image-5.png)
+![image-5.png](./image/image-5.png)
 
 
 <br />
@@ -68,7 +68,7 @@ Big Data
 
 
 ## 📋 요구사항 명세서
-![image-6.png](./image-6.png)
+![image-6.png](./image/image-6.png)
 
 
 <br />
@@ -77,7 +77,7 @@ Big Data
 
 
 ## ✔️ ERD
-![image-8.png](./image-8.png)
+![image-8.png](./image/image-8.png)
 
 
 <br />
@@ -153,19 +153,19 @@ Big Data
 
 #### 1️⃣ 모임별 맞춤 도서 추천   
 - 모임의 성향 및 이전 활동을 이용하여 도서 추천을 받을 수 있습니다.
-![image-9.png](./image-9.png)
+![image-9.png](./image/image-9.png)
 
 #### 2️⃣ 페이지별 리뷰 작성    
 - 책의 원하는 페이지에 리뷰를 남길 수 있습니다.   
-![image-10.png](./image-10.png)
+![image-10.png](./image/image-10.png)
 
 #### 3️⃣ 모임 관리   
 - 체계적인 모임 관리가 가능합니다.   
-![image-11.png](./image-11.png)
+![image-11.png](./image/image-11.png)
 
 #### 4️⃣ 오도독 책장   
 - 공개된 활동에 한하여 다른 모임이 활동한 내역들을 볼 수 있습니다.   
-![image-12.png](./image-12.png)
+![image-12.png](./image/image-12.png)
 
 
 
